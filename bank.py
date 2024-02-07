@@ -1,6 +1,8 @@
 # bank.py
+
 # A program that prompts the user to enter 2 amounts in cent,
 # adds them and prints the answer formatted as euro and cent
+
 # Author: David O'Connell
 
 # read as integers the 2 amounts to be added
