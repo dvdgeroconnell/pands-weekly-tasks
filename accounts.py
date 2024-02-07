@@ -13,7 +13,7 @@
 account_no =''
 
 # It is assumed that an account number can be no longer than the IBAN standard of 34 alphanumeric
-# characters minus the first 4 which are 2 country code and 2 check digits - so 30 maximum.
+# characters minus the first 4, which are 2 country code and 2 check digits - so 30 maximum.
 # It is also assumed that it should be digits only.
 
 while (len(account_no) > 30 or (account_no.isdigit() == False and account_no != 'E')):
