@@ -29,4 +29,4 @@ If neither, an error message is printed.
 This program uses the Newton method to estimate the approximate square root of a positive
 point number. It asks the user to specify the difference in the result between successive
 iterations at which the loop should exit.
-It prints out the square root and also the final delta between iterations.
+It prints the square root and accuracy (of the square), also the final delta between iterations.
