@@ -7,8 +7,10 @@
 
 # Author: David O'Connell
 
-# The datetime module has many methods to return information about the date object.
-# Reference - https://www.w3schools.com/python/python_datetime.asp
+# References
+#   https://www.w3schools.com/python/python_datetime.asp - for date & time function syntax
+#   (the datetime module has many methods to return information about the date object)
+#   https://docs.python.org/3/reference/index.html - the Python Language Reference
 
 # The method we require to return the current day is in the datetime module.
 import datetime
@@ -16,7 +18,6 @@ import datetime
 # Define the weekdays and weekend days as tuples.
 weekday = ("Monday","Tuesday","Wednesday","Thursday","Friday")
 weekend = ("Saturday","Sunday")
-
 
 today = datetime.datetime.now()
 

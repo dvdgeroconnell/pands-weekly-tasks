@@ -1,13 +1,17 @@
-# Weekly Task 03 - accounts.py
+# accounts.py
+# Week 03 assignment
 
 # Problem statement
     # Reads in a 10 character account number and outputs the account number with only the last 4 digits
-    # showing (and the first 6 digits replaced by X's).
+    # displayed (and the first 6 digits replaced by X's).
     # Extend the program to deal with account numbers of any length - state assumptions.
 
 # Author(s): David O'Connell
 
-# Reference for string functions, while loops and if statements - https://www.w3schools.com/python/
+# References
+#   https://www.w3schools.com/python/ - for string functions, while loops and if statements
+#   https://docs.python.org/3/reference/index.html - the Python Language Reference
+
 
 # Assign initial value to the account_no string
 account_no =''

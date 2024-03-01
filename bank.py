@@ -1,9 +1,15 @@
 # bank.py
+# Week 02 assignment
 
 # A program that prompts the user to enter 2 amounts in cent,
 # adds them and prints the answer formatted as euro and cent
 
 # Author: David O'Connell
+
+# References:
+#   https://docs.python.org/3/reference/index.html - the Python Language Reference
+#   https://www.w3schools.com/python/ref_string_zfill.asp (for zfill)
+
 
 # read as integers the 2 amounts to be added
 amount1 = int(input('Enter the first amount (in cent): '))
