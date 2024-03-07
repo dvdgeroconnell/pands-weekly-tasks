@@ -4,7 +4,7 @@ This is the coursework repository.
 ## Weekly Task 02 - bank.py
 This program prompts the user to enter 2 amounts in cent, adds them and prints the
 answer formatted as euro and cent. It avoids the use of floating point numbers as we
-are dealing wiht currency.
+are dealing with currency.
 
 ## Weekly Task 03 - accounts.py
 This program takes in a 10 character account number and outputs the account number with 
@@ -30,3 +30,11 @@ This program uses the Newton method to estimate the approximate square root of a
 point number. It asks the user to specify the difference in the result between successive
 iterations at which the loop should exit.
 It prints the square root and accuracy (of the square), also the final delta between iterations.
+
+## Weekly Task 07 - es.py
+A program to read in a text file and print out the number of e's and E's it contains.   
+It is assumed that both upper and lower case e's should be counted.  
+3 functions were written to see which appeared most efficient.  
+  - Read the whole file  
+  - Read a line at a time  
+  - Read a character at a time  
