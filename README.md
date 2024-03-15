@@ -38,3 +38,9 @@ It is assumed that both upper and lower case e's should be counted.
   - Read the whole file  
   - Read a line at a time  
   - Read a character at a time  
+
+# Weekly Task 08 - plottask.py  
+A program to display:  
+- a histogram of a normal distribution of 1000 values with a mean of 5 and a std deviation of 2  
+  truncated at 10  
+- a plot of the function h(x) = x^3 in the range 0 - 10  
