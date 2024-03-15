@@ -39,7 +39,7 @@ It is assumed that both upper and lower case e's should be counted.
   - Read a line at a time  
   - Read a character at a time  
 
-# Weekly Task 08 - plottask.py (and plottask_output.png)  
+## Weekly Task 08 - plottask.py (and plottask_output.png)  
 A program to display:  
 - a histogram of a normal distribution of 1000 values with a mean of 5 and a std deviation of 2  
   truncated at 10  
