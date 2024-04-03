@@ -1,5 +1,11 @@
-# pands-weekly-tasks
-This is the coursework repository.
+# Repository - pands-weekly-tasks  
+This is GitHub repository for the coursework associated with the Programming and Scripting module.  
+ 
+| Author  | Student ID  | Term |  
+|----------|---------|---------|  
+| David O'Connell  | G00438912  | 1H 2024  |    
+
+# Contents  
 
 ## Weekly Task 02 - bank.py
 This program prompts the user to enter 2 amounts in cent, adds them and prints the
