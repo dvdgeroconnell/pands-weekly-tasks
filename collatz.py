@@ -19,6 +19,7 @@ entry = int(input("Input a positive integer: "))
 
 # test whether even or odd by looking at the remainder, and apply rule 1. or rule 2. accordingly
 # remain in the loop until the number has reached 1
+print("Output of the Collatz conjecture is: ", end='')
 while entry != 1:
     if entry % 2 == 0:
         # apply rule 1.
